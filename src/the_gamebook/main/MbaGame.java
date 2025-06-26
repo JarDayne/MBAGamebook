@@ -67,16 +67,16 @@ public class MbaGame {
         //current Prompt object, changes on every decision
 
         do {
+            //use the current Prompt object
+            String promptBuilder = "\n" + promptNumber + ".\n\t" + promptInformation + " END";
+            System.out.println(promptBuilder);
+
             resourceView = new StringBuilder();
             resourceView
                     .append("Money: ").append(money)
                     .append("   Productivity: " ).append(productivity)
                     .append("   Prestige: ").append(prestige);
             System.out.println(resourceView);
-
-            //use the current Prompt object
-            String promptBuilder = "\n" + promptNumber + ".\n\t" + promptInformation;
-            System.out.println(promptBuilder);
 
             System.out.println("\nType anything to continue. Press Enter.");
             userInputScanner.nextLine();

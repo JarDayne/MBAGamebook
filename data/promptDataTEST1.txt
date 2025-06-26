@@ -1,0 +1,112 @@
+n
+1
+i
+The Intergalactic Federation just finished the 11-Delta-X Entrepreneurship summit. As members of the
+Federation are pouring out of the Headquarters, you can hear an excited murmur. They are discussing
+a pale blue dot of a planet in the Orion Arm of the Milky Way Galaxy. It has been voted the most suitable
+planet to launch a business venture. Earth.
+Earth, with its constantly emerging business accelerators and crowdfunding campaigns. With its mass
+quantities of inspired educated young people. With its engineering talent. Earth, your home planet.
+You were born there 29 years ago, and your name is Alex Field. As it also happens, you are the main
+character here.
+"I should go back" -- you think -- "I should go back, and build a legacy. Tari has been wanting to return
+to Earth for a while now, ever since Ari was born."
+"We can start something meaningful."
+d
+You go back to the Pale Blue Dot.
+Go to (2).
+
+n
+2
+i
+America. The land of opportunities. You haven't been paying much attention to the doings and
+happenings of the past 11 years, and coming home is a bit of a shock. Tari can't remember the last time
+she saw you this wide-eyed.
+The cab-ride to your new home is an endless stream of "Oohs!" and "Look at that's!". You know it's no
+11-Delta-X but considering what the state of things was when you left, this is Ooh!worthy, no question
+there.
+Your house is a New York City brownstone, tucked in tightly between two large concrete buildings.
+"These weren't there before", you think, looking at the enormous neighbors, "but, oh, man, do I love
+the character contrast."
+As you set your bags down, and put Ari to sleep, you start to itch to go out into the city; so new, so
+buzzing, so full of opportunities. You yearn to drink from the fountain of inspiration the Big Apple is.
+The Big Apple. It would have been disastrous if you returned and the only cash you had with you was
+11-Delta-X currency. But you were smart when you were young. Remember the late 90’s, when the
+cryptocurrency hype was not even big? You sensed it coming. Or you were incredibly lucky and
+unreasonably brave with your hard-earned 12,000 American dollars. Returning the balls at a bowling
+alley was a lot of work, no, really! Regardless, investing the money in BitCoin is paying off now. You
+have $2.7 million worth of pocket money (okay, starting capital). Whew. Truly.
+Tari is all ready to go, and snaps you out of reminiscence. You call in a sitter, and off you go.
+d
+Go to Times Square.
+Go to (37).
+Go to Rockefeller Center.
+Go to (14).
+
+n
+14
+i
+'Sometimes my choices truly are bizarre, aren't they?' you ask Tari, 'Why on Earth (haha, pun) did I think
+Rockefeller Center won't be an informational overload. This won't do much to stimulate our business
+idea stimulation I don't think...'
+'Oh, come on now, don't be such a drama queen, Alex', Tari chuckles amused, 'I am sure we can find at
+least one thing you'd like to do. Rockefeller. Center.' She spreads her arms. 'Just close your eyes and
+point at something. You do it enough times and we're bound to find something that strikes Your fancy,...
+Your Highness.'
+'Hahaha, right. Leave our livelihood to chance, is that what you're offering?' You are not even trying to
+hide the little sparkle in your eyes, you are having fun - this is absurd, but you're good at absurd. 'Shall
+I do a little spin before pointing first, Tari, we might even knock the hat off a completely unsuspecting
+tourist while we're at it!'
+'Sure, sure. Need a hand to accelerate and make it worthwhile? Just point, Alex, go ahead, we have a
+future to ridiculously select.'
+You put a hand over your eyes, stretch out the other in an overly pronounced manner - 'What a majestic
+pointer dog I've been living with!' Tari retorts, and gives you a spin.
+No accidents - not a single eye poked out, or a cheek bruised.
+'So? What am I pointing at?'
+'Check for yourself...'
+You peek through your fingers and laugh aloud, half-sarcastically.
+'A water dispenser? Really? And I did that all by myself? How opportune!', you tease.
+'Destiny works in mysterious ways, Alex, don't go on making unjust assumptions, now...', Tari laughs.
+You frown a little. All in good tone, but is Tari really taking this so lightly? You can't just jump into a
+random business idea -- and you don't really have an idea at all, do you? What are you going to do, start
+selling water, no. Not water. Water services. You can try to distribute water, and install water
+dispensers. You can do that online, too, you realise... 'We can set up an e-commerce store for water
+dispensers and coolers.', it strikes you. Not as glamorous as selling Aston Martins, but a solid idea.
+d
+Consider in all seriousness to set up an e-commerce site for water dispensers and coolers.
+Go to (21).
+This is just not serious enough, continue thinking.
+Go to (137).
+
+n
+37
+i
+'Sometimes my choices truly are bizarre, aren't they?' you ask Tari, 'Why on Earth (pun) did I think Times
+Square won't be an informational overload. This won't do much to stimulate our business idea
+stimulation, I don't think...'
+'Oh, come on now, don't be such a drama queen, Alex', Tari chuckles, amused, 'I am sure we can find
+at least one thing you'd like to do. Times. Square.' She spreads her arms, 'Just close your eyes and point
+at something. You do it enough times and we're bound to find something that strikes Your fancy,... Your
+Highness.'
+'Hahaha, right. Leave our livelihood to chance, is that what you're offering?' you are not even trying to
+hide the little sparkle in your eyes, you are having fun - this is absurd, but you're good at absurd. 'Shall
+I do a little spin before pointing first, Tari, we might even knock the hat off a completely unsuspecting
+tourist while we're at it!'
+'Sure, sure. Need a hand to accelerate and make it worthwhile? Just point, Alex, go ahead, we have a
+future to ridiculously select.'
+You put a hand over your eyes, stretch out the other in an overly pronounced manner - 'What a majestic
+pointer dog I've been living with!'  Tari retorts, and gives you a spin.   No accidents - not a single eye
+poked out, or a cheek bruised.
+'So? What am I pointing at?'
+'Check for yourself...'
+You peek through your fingers and laugh aloud.
+'A jewelry store? Really? And I did that all by myself? How opportune!' you tease.
+'Destiny works in mysterious ways, Alex, don't go on making unjust assumptions, now...', Tari laughs.
+You frown a little. All in good tone, but is Tari really taking this so lightly? You can't, really, you cannot,
+just jump into a business idea. You can't open up a jewelry store on 5th Avenue. Are you going to be
+selling jewelry onli-... 'We can sell jewelry online!’ it strikes you.
+d
+Consider in all seriousness to set up an online jewelry store.
+Go to (25).
+This is just not serious enough, continue thinking.
+Go to (114).
